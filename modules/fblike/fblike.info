@@ -1,0 +1,5 @@
+<?php
+;$Id$
+name = Facebook Like Button
+description = Adds the Facebook Like Button to nodes
+core = 6.x

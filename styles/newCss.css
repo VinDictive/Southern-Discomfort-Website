@@ -1,0 +1,24 @@
+BODY {
+	FONT-SIZE: 11px;
+	MARGIN: 0px; 
+	COLOR: #333333; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+	BACKGROUND-COLOR: #ffffff; 
+	TEXT-ALIGN: left;
+}
+
+
+
+.DomainRegisteredBg {
+	
+	BACKGROUND-POSITION: left top; 
+	BACKGROUND-IMAGE: url(../images/domainregisteredBg.jpg); 
+	VERTICAL-ALIGN: middle; 
+	WIDTH: 100%; 
+	Height:225px;
+	BACKGROUND-REPEAT: repeat-x; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+	TEXT-ALIGN: center;
+	vertical-align:middle;
+}
+
